@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h2 align="left">Hi 👋! My name is Dima Hirich and I'm a JS FullStack developer, from Kremenchuk 🇺🇦</h2>
 
