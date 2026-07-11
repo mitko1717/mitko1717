@@ -2,16 +2,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mitko1717&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mitko1717&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <p align="left">
-  🔭 Currently working at <strong>TheBuidl.io</strong><br>
-  https://www.thebuidl.io/<br><br>
+  🔭 Currently working with multiple clients:<br>
+  • <strong>TheBuidl.io</strong> - https://www.thebuidl.io/<br>
+  • <strong>Selector.org.il</strong> - https://selector.org.il/<br><br>
   💻 <strong>FullStack developer</strong> with <strong>4+ years of experience</strong><br>
   ⚡ <strong>Backend-focused</strong> but equally comfortable building modern frontends<br>
   🏗️ Building scalable APIs with <strong>NestJS</strong>, Express, Node.js<br>
