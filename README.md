@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dima Hirich and I'm a Backend-focused FullStack developer, from Kremenchuk 🇺🇦</h2>
+<h2 align="left">Hi 👋! My name is Dima Hirich and I'm a FullStack developer (with strong backend focus), from Kremenchuk 🇺🇦</h2>
 
 ###
 
@@ -10,11 +10,14 @@
 ###
 
 <p align="left">
-  🔭 I’m currently working at <strong>TheBuidl.io</strong><br>
+  🔭 Currently working at <strong>TheBuidl.io</strong><br>
   https://www.thebuidl.io/<br><br>
-  💻 <strong>Backend-focused developer</strong> with 4+ years of experience<br>
-  🏗️ Building scalable APIs with <strong>NestJS</strong>, Node.js, and PostgreSQL<br>
+  💻 <strong>FullStack developer</strong> with <strong>4+ years of experience</strong><br>
+  ⚡ <strong>Backend-focused</strong> but equally comfortable building modern frontends<br>
+  🏗️ Building scalable APIs with <strong>NestJS</strong>, Express, Node.js<br>
+  🗄️ Working with <strong>PostgreSQL</strong>, MongoDB, and SQL databases<br>
   🤖 Leveraging <strong>AI agents</strong> (Claude, Codex, MCP servers) to accelerate development<br>
+  🎯 Passionate about clean architecture, type safety, and developer experience<br>
   📫 <strong>diman12345677@gmail.com</strong>
 </p>
 
@@ -67,7 +70,7 @@
 
 ###
 
-<h3 align="left">⚡ What I'm into right now</h3>
+<h3 align="left">⚡ Currently focused on</h3>
 
 - Building robust backend systems with **NestJS** and TypeScript
 - Integrating **AI agents** (Claude, Codex) into development workflows
