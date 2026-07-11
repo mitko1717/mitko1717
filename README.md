@@ -67,7 +67,7 @@
 <h3 align="left">⚡ Currently focused on</h3>
 
 - Building robust backend systems with **NestJS** and TypeScript
-- Integrating **AI agents** (Claude, Codex) into development workflows
+- Integrating **AI agents** (Claude, Codex, Windsurf, Copilot) into development workflows
 - Exploring **MCP servers** for enhanced tooling
 - Writing clean, maintainable, and well-tested code
 
