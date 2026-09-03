@@ -6,12 +6,18 @@
   🔭 Currently working with multiple clients:<br>
   • <strong>TheBuidl.io</strong> - https://www.thebuidl.io/<br>
   • <strong>Selector.org.il</strong> - https://selector.org.il/<br><br>
+
   💻 <strong>FullStack developer</strong> with <strong>4+ years of experience</strong><br>
   ⚡ <strong>Backend-focused</strong> but equally comfortable building modern frontends<br>
   🏗️ Building scalable APIs with <strong>NestJS</strong>, Express, Node.js<br>
   🗄️ Working with <strong>PostgreSQL</strong>, MongoDB, and SQL databases<br>
   🤖 Leveraging <strong>AI agents</strong> (Claude, Codex, MCP servers) to accelerate development<br>
-  🎯 Passionate about clean architecture, type safety, and developer experience<br>
+  🎯 Passionate about clean architecture, type safety, and developer experience<br><br>
+
+  🎮 Building my own Telegram quiz game:<br>
+  🚀 <strong>CapitalZ Quiz</strong> — test your geography knowledge, beat challenges, and climb the leaderboard!<br>
+  🤖 Play now: <a href="https://t.me/capitalz_quiz_bot">https://t.me/capitalz_quiz_bot</a><br><br>
+
   📫 <strong>diman12345677@gmail.com</strong>
 </p>
 
