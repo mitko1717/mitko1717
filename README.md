@@ -14,9 +14,12 @@
   🤖 Leveraging <strong>AI agents</strong> (Claude, Codex, MCP servers) to accelerate development<br>
   🎯 Passionate about clean architecture, type safety, and developer experience<br><br>
 
-  🎮 Building my own Telegram quiz game:<br>
-  🚀 <strong>CapitalZ Quiz</strong> — test your geography knowledge, beat challenges, and climb the leaderboard!<br>
-  🤖 Play now: <a href="https://t.me/capitalz_quiz_bot">https://t.me/capitalz_quiz_bot</a><br><br>
+  🎮 Building a Telegram quiz platform — 3 mini-apps sharing one engine:<br>
+  🌍 <strong>Capitalz Quiz</strong> — world capitals<br>
+  🚩 <strong>Flagz Quiz</strong> — country flags<br>
+  🪐 <strong>Planetz Quiz</strong> — the Solar System<br>
+  5 difficulty levels, daily challenges, hints, streaks, referrals, and social sharing<br>
+  🤖 Try them all: <a href="https://t.me/quizworld_hub">https://t.me/quizworld_hub</a><br><br>
 
   📫 <strong>diman12345677@gmail.com</strong>
 </p>
