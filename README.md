@@ -4,10 +4,10 @@
 
 <p align="left">
   🔭 Currently working with:<br>
-  • <strong>TheBuidl.io</strong> - https://www.thebuidl.io/ — building a ticketing platform for selling tickets to all kinds of events<br><br>
+  • <strong>TheBuidl.io</strong> - https://www.thebuidl.io/ — Web3 development<br><br>
 
   🗂️ Previously:<br>
-  • <strong>Selector.org.il</strong> - https://selector.org.il/<br><br>
+  • <strong>Selector.org.il</strong> - https://selector.org.il/ — built a ticketing platform for selling tickets to all kinds of events<br><br>
   
   💻 <strong>FullStack developer</strong> with <strong>4+ years of experience</strong><br>
   ⚡ <strong>Backend-focused</strong> but equally comfortable building modern frontends and chat-bots<br>
