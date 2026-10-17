@@ -13,7 +13,9 @@
   ⚡ <strong>Backend-focused</strong> but equally comfortable building modern frontends and chat-bots<br>
   🏗️ Building scalable APIs with <strong>NestJS</strong>, Express, Node.js<br>
   🗄️ Working with <strong>PostgreSQL</strong>, MongoDB, Redis and SQL databases<br>
-  🤖 Leveraging <strong>AI agents</strong> (Claude, Codex, MCP servers) to accelerate development<br>
+  🤖 <strong>AI-native workflow</strong>: I work with AI agents (Claude, Claude Code, Codex, MCP servers) every day<br>
+  ⚙️ <strong>Automating every stage of development</strong>: specs and planning, coding, code review, tests, CI/CD, deploys,
+  docs and even marketing content<br>
   🎯 Passionate about clean architecture, type safety, and developer experience<br><br>
 
   🌍 <strong>Quiz Network</strong> — a scalable ecosystem of Telegram quiz mini-apps built on one shared engine:<br>
@@ -24,13 +26,39 @@
   Difficulty levels, daily challenges, hints, streaks, achievements, referrals and social sharing<br>
   👉 Play them all: <a href="https://t.me/quizworld_hub">https://t.me/quizworld_hub</a><br><br>
 
-  🚗 <strong>ПДР України — тести</strong> — Telegram bot + Mini App for the Ukrainian driving-theory exam<br>
+  🚗 <strong>ПДР України — тести</strong> — Telegram bot + Mini App + public website for the Ukrainian driving-theory exam<br>
   2,300+ official questions with images, exam simulator (20 questions / 20 min / max 2 mistakes),
   topic training, mistakes review, road-sign reference, achievements, leaderboard and daily reminders<br>
   NestJS + Next.js monorepo, PostgreSQL, Redis, WebSockets-ready, e2e on GitHub Actions<br>
   🤖 Bot: <a href="https://t.me/pdr_exam_ua_bot">@pdr_exam_ua_bot</a> · 📢 Daily quiz channel: <a href="https://t.me/ukraine_pdr_online">@ukraine_pdr_online</a><br><br>
 
   📫 <strong>diman12345677@gmail.com</strong>
+</p>
+
+###
+
+<h3 align="left">🤖 Use case: shipping a product solo with AI agents</h3>
+
+<p align="left">
+  <strong>ПДР України — тести</strong> is built end-to-end by one developer working with an AI agent as a pair programmer,
+  with me owning the product decisions, architecture and every review:<br><br>
+
+  🧭 <strong>Product</strong> — a competitor analyzed from screenshots → product spec, phased plan and decisions log<br>
+  🏛️ <strong>Architecture</strong> — layered NestJS (domain / application / infrastructure), ports and adapters,
+  domain events with after-commit side effects, Redis caching and rate limits, cron jobs with distributed locks<br>
+  🔁 <strong>Delivery loop</strong> — small verified steps: exact-match patches, typecheck + lint + tests before every commit,
+  e2e on GitHub Actions, auto-deploy to Railway on push<br>
+  🌐 <strong>SEO website from the same codebase</strong> — ~3,000 statically generated pages (topics, questions, road signs),
+  an in-browser exam simulator, sitemap, JSON-LD, PageSpeed 100 on mobile and desktop<br>
+  📈 <strong>Growth, automated</strong> — acquisition tracking via deep-link tags, referral and result-sharing loops
+  (Telegram prepared inline messages), a daily quiz auto-posted to the channel<br>
+  🎬 <strong>Marketing content</strong> — a promo-video pipeline (Python + Pillow + ffmpeg + AI voiceover):
+  an agent turns a one-line idea into a voiced vertical video with platform-ready captions<br>
+  🧠 <strong>Context that survives sessions</strong> — living handoff docs and project rules keep every new AI session
+  productive from the first message<br><br>
+
+  ⚡ Result: in a single working day — mistakes-review progress, exam feedback, result sharing, a public website
+  with thousands of pages and an online exam simulator, all reviewed, tested and deployed.
 </p>
 
 ###
@@ -88,7 +116,8 @@
 
 - Building robust backend systems with **NestJS** and TypeScript
 - Scaling Telegram Mini Apps: caching, rate limiting, background jobs and real-time features
-- Integrating **AI agents** (Claude, Codex, Windsurf, Copilot) into development workflows
+- **AI-driven development**: agents (Claude Code, Codex, Windsurf, Copilot) across the whole cycle — planning, coding, review, testing and release
+- Automating the boring parts: CI/CD, deploys, docs, content generation
 - Exploring **MCP servers** for enhanced tooling
 - Writing clean, maintainable, and well-tested code
 
