@@ -56,16 +56,25 @@
   🔁 <strong>Delivery loop</strong> — small verified steps: exact-match patches, typecheck + lint + tests before every commit,
   e2e on GitHub Actions, auto-deploy to Railway on push<br>
   🌐 <strong>SEO website from the same codebase</strong> — ~3,000 statically generated pages (topics, questions, road signs),
-  an in-browser exam simulator, sitemap, JSON-LD, PageSpeed 100 on mobile and desktop<br>
-  📈 <strong>Growth, automated</strong> — acquisition tracking via deep-link tags, referral and result-sharing loops
-  (Telegram prepared inline messages), a daily quiz auto-posted to the channel<br>
+  an in-browser exam simulator, sitemap, JSON-LD, PageSpeed 100; own domain behind Cloudflare,
+  Google Search Console + Bing Webmaster, first search impressions within 3 days<br>
+  🔐 <strong>Auth across Telegram and the web</strong> — Telegram Mini App initData, Telegram Login Widget and Google OAuth
+  (PKCE, nonce, one-time state), httpOnly cookie sessions with rotating refresh tokens and replay detection,
+  account linking with conflict resolution<br>
+  🖼️ <strong>Media pipeline</strong> — 1,166 exam images AI-upscaled (Real-ESRGAN), 362 road signs re-rendered from SVG,
+  served from Cloudflare R2 with immutable caching and a CDN fallback switch<br>
+  📈 <strong>Data-driven growth</strong> — acquisition tags per channel, activation funnel per source
+  (new → started → finished a test), a one-time activation nudge for users who haven't started, referral and
+  result-sharing loops, a daily quiz auto-posted to the channel<br>
   🎬 <strong>Marketing content</strong> — a promo-video pipeline (Python + Pillow + ffmpeg + AI voiceover):
   an agent turns a one-line idea into a voiced vertical video with platform-ready captions<br>
-  🧠 <strong>Context that survives sessions</strong> — living handoff docs and project rules keep every new AI session
-  productive from the first message<br><br>
+  🛡️ <strong>Security hygiene</strong> — supply-chain audits of agent skills, MCP servers and install scripts,
+  allow-listed package build scripts, a secret-rotation runbook and zero-cost budget alerts<br>
+  🧠 <strong>Context that survives sessions</strong> — living handoff docs, reusable workflow and security skills
+  keep every new AI session productive from the first message<br><br>
 
-  ⚡ Result: in a single working day — mistakes-review progress, exam feedback, result sharing, a public website
-  with thousands of pages and an online exam simulator, all reviewed, tested and deployed.
+  ⚡ Result: a production bot, Mini App and website — from spec to own domain, web login, CDN and analytics —
+  built, reviewed, tested and deployed by one developer in about a week.
 </p>
 
 ###
