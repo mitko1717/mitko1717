@@ -3,10 +3,8 @@
 ###
 
 <p align="left">
-  🔭 Currently working with:<br>
-  • <strong>TheBuidl.io</strong> - https://www.thebuidl.io/ — Web3 development<br><br>
-
   🗂️ Previously:<br>
+  • <strong>TheBuidl.io</strong> - https://www.thebuidl.io/ — Web3 development<br>
   • <strong>Selector.org.il</strong> - https://selector.org.il/ — a ticketing platform for all kinds of events<br><br>
   
   💻 <strong>FullStack developer</strong> with <strong>4+ years of experience</strong><br>
