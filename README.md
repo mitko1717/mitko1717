@@ -24,9 +24,13 @@
   NestJS + Next.js monorepo, PostgreSQL, Redis, e2e on GitHub Actions<br>
   🌐 Website: <a href="https://pdr-testy.com.ua/">pdr-testy.com.ua</a> · 🤖 Bot: <a href="https://t.me/pdr_exam_ua_bot">@pdr_exam_ua_bot</a> · 📢 Channel: <a href="https://t.me/ukraine_pdr_online">@ukraine_pdr_online</a><br><br>
 
-  🌍 <strong>Quiz Network</strong> — Telegram quiz mini-apps on one shared engine:
-  🎮 World Trivia · 🏙️ Capitalz · 🚩 Flagz · 🪐 Planetz<br>
-  Difficulty levels, daily challenges, hints, streaks, achievements, referrals and sharing<br>
+  🌍 <strong>Quiz Network</strong> — 7 Telegram quiz bots + Mini Apps on one shared NestJS engine:
+  🎮 World Trivia · 🏙️ Capitalz · 🚩 Flagz · 🪐 Planetz · ⚽ Football · 🚦 ПДР України · 🔤 English Words<br>
+  🔤 <strong>English Words Quiz</strong> — learn the 1000 most useful English words (NGSL): translation both ways,
+  word in context, fill the gap; 4,200+ questions graded by learner level (A1–B2) — <a href="https://t.me/english_quiz_ua_bot">@english_quiz_ua_bot</a><br>
+  🚦 <strong>ПДР України</strong> — the official 2,300+ exam questions as a quick quiz — <a href="https://t.me/pdr_ukraine_test_quiz_bot">@pdr_ukraine_test_quiz_bot</a><br>
+  Difficulty levels, in-chat quiz, daily challenges, hints, streaks, achievements, referrals and sharing;
+  bots on webhooks, per-topic content pipelines (Wikidata, transfermarkt, NGSL) with AI-assisted review<br>
   👉 Play them all: <a href="https://t.me/quizworld_hub">https://t.me/quizworld_hub</a><br><br>
 
   🔔 <strong>Cuebit</strong> — a multi-user Telegram reminder bot for running side projects<br>
