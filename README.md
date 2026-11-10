@@ -24,6 +24,14 @@
   NestJS + Next.js monorepo, PostgreSQL, Redis, e2e on GitHub Actions<br>
   🌐 Website: <a href="https://pdr-testy.com.ua/">pdr-testy.com.ua</a> · 🤖 Bot: <a href="https://t.me/pdr_exam_ua_bot">@pdr_exam_ua_bot</a> · 📢 Channel: <a href="https://t.me/ukraine_pdr_online">@ukraine_pdr_online</a><br><br>
 
+🏠 <strong>AI operations on Odoo</strong> — end-to-end automation prototype for a smart-home installation company<br>
+  Website form → AI lead analysis (structured JSON, validation, prompt-injection safe) → CRM → quotation → project
+  with 9 stages → purchasing, Sign, invoicing, Helpdesk with SLA escalation, HR screening, meetings → tasks,
+  knowledge assistant and a weekly AI report to the owner; Telegram ops bot with roles and one-tap approvals;
+  eval on 18 synthetic leads and a 14-step regression suite<br>
+  Odoo 20 (automations, server actions, native AI), TypeScript, Node.js, JSON-2 API, grammY, Railway<br>
+  🎬 <a href="https://claude.ai/artifact/9mntsBuQdJ38R4xooKN81z">Demo video</a> · 📊 <a href="https://claude.ai/artifact/Jk3Wfpe1ruCBocPP4TTYxf">Slides</a> · 💻 <a href="https://github.com/mitko1717/gravity-odoo-ai">Repo</a><br><br>
+
   🌍 <strong>Quiz Network</strong> — 7 Telegram quiz bots + Mini Apps on one shared NestJS engine:
   🎮 World Trivia · 🏙️ Capitalz · 🚩 Flagz · 🪐 Planetz · ⚽ Football · 🚦 ПДР України · 🔤 English Words<br>
   🔤 <strong>English Words Quiz</strong> — learn the 1000 most useful English words (NGSL): translation both ways,
